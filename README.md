@@ -6,7 +6,7 @@
 
 ### 1. Скачиваем библиотеку jQuuery - compressed version!
     * code.jquery.com/jquery-3.6.1.min.js
-### 2. Скачиваем Owl Carousel 2 с фоициального сайта 
+### 2. Скачиваем Owl Carousel 2 с официального сайта 
     * https://owlcarousel2.github.io/OwlCarousel2/
 ### 3. Подключаем стили
     * первым owl.carousel.min.css
