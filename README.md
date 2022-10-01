@@ -1,12 +1,12 @@
 <h1 align="center">Привет, меня зовут Илья
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Подключение Owl Carousel2 простым языком ))</h3>
+<h3 align="center">Подключение Owl Carousel 2 простым языком ))</h3>
 
 ---
 
 ### 1. Скачиваем библиотеку jQuuery - compressed version!
     * code.jquery.com/jquery-3.6.1.min.js
-### 2. Скачиваем Slick Slider с фоициального сайта 
+### 2. Скачиваем Owl Carousel 2 с фоициального сайта 
     * https://owlcarousel2.github.io/OwlCarousel2/
 ### 3. Подключаем стили
     * первым owl.carousel.min.css
